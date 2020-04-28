@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 250 250" style="white-space: pre;">
+    <rect width="250" height="188" fill="#74cbf1" stroke="none" opacity="1" rx="25" transform="translate(125,125.5) translate(-125,-94.5)"/>
+    <ellipse rx="25" ry="25" opacity="1" fill="#ffd144" stroke="none" transform="translate(85.5,74.8417) translate(1.5,1.5)"/>
+    <path d="M-7,-2C-3.5,-7.5,43.5,-67.5,67,-73C73.5,-72.5,86,-58,90,-53C94,-60,133,-110,149,-111C178.5,-104,212.426,-50.2326,243,-19L243,-2C241.147,11.1623,233.29,18.3034,221,21L15,21C3.10818,18.9035,-5.3161,11.3144,-7,-2Z" opacity="1" fill="#84b84e" stroke-linecap="square" stroke="none" transform="translate(7,198)"/>
+    <path fill="#7aa848" opacity="1" stroke="none" d="M10,4C12.5918,8.52065,16.5724,11.8287,23,13L227,12C236.185,11.5391,244.086,8.08352,250,0C250,0.5,250,8.95431,250,20L250,20C250,31.0457,238.807,40,225,40L25,40C11.1929,40,0,31.0457,0,20L0,20C-1.5,15.5,10,4,10,4Z" transform="translate(127.5,202) translate(-127.5,-23)"/>
+    <path d="M0,0L0,-21" stroke="#495358" fill="none" stroke-linecap="round" stroke-width="12" stroke-linejoin="round" transform="translate(45.5,41.5)"/>
+    <path d="M0,0L0,-21" stroke="#495358" fill="none" stroke-linecap="round" stroke-width="12" stroke-linejoin="round" transform="translate(203.5,41.5)"/>
+</svg>
